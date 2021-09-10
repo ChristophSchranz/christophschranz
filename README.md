@@ -14,3 +14,7 @@
 <a href="https://github.com/iot-salzburg/gpu-jupyter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iot-salzburg&repo=gpu-jupyter&theme=algolia" />
 </a>    
+   
+#### Would you like to be my patreon?
+
+I would like to work more on my open-source projects to provide best quality and new content regularly. Please consider supporting me on [Patreon](https://www.patreon.com/chris_schranz).
