@@ -7,14 +7,19 @@
 </a>
 
 #### My top repos: 
-<a href="https://github.com/ChristophSchranz/Tweaker-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christophschranz&repo=Tweaker-3&theme=algolia" />
-</a>
 
 <a href="https://github.com/iot-salzburg/gpu-jupyter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iot-salzburg&repo=gpu-jupyter&theme=algolia" />
 </a>    
    
+<a href="https://github.com/ChristophSchranz/Tweaker-3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christophschranz&repo=Tweaker-3&theme=algolia" />
+</a>
+
+<a href="https://github.com/iot-salzburg/nearest-advocate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iot-salzburg&repo=nearest-advocate&theme=algolia" />
+</a>
+
 #### Would you like to be my patreon?
 
 Both projects are developed and maintained in spare time without any gage (beside few initial starting hours). 
