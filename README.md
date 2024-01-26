@@ -24,4 +24,3 @@
 
 Both projects are developed and maintained in spare time without any gage (beside few initial starting hours). 
 I would like to work more on my open-source projects to offer a high code quality and new content regularly.  
-**Please support these projects and future work now via [Patreon](https://www.patreon.com/chris_schranz). Thank you!**
