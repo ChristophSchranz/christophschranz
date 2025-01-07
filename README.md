@@ -20,7 +20,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iot-salzburg&repo=nearest-advocate&theme=algolia" />
 </a>
 
-#### Would you like to be my patreon?
-
-Both projects are developed and maintained in spare time without any gage (beside few initial starting hours). 
-I would like to work more on my open-source projects to offer a high code quality and new content regularly.  
+The projects were developed and maintained in my spare time (some after an initial paid proof-of-concept).
+Feel free to use them!
