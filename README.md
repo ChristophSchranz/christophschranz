@@ -20,5 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iot-salzburg&repo=nearest-advocate&theme=algolia" />
 </a>
 
-The projects were developed and maintained in my spare time (some after an initial paid proof-of-concept).
+
+These projects were primarily developed in my spare time, with some benefiting from financial support during their proof-of-concept phase. 
+I'm doing my best to support and further develop them.
 Feel free to use them!
